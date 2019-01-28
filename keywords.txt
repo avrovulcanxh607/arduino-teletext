@@ -1,0 +1,6 @@
+setCursor	KEYWORD2
+writeByte	KEYWORD2
+callPage	KEYWORD2
+reveal	KEYWORD2
+displayX24	KEYWORD2
+Teletext	KEYWORD1
