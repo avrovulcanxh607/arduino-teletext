@@ -4,3 +4,8 @@ callPage	KEYWORD2
 reveal	KEYWORD2
 displayX24	KEYWORD2
 Teletext	KEYWORD1
+writeChar	KEYWORD2
+dispCursor	KEYWORD2
+doubleSize	KEYWORD2
+fastText	KEYWORD2
+readByte	KEYWORD2
